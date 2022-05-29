@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://maxiconstancio.github.io/portfolio',
+  homepage: 'https://maxiconstancio.netlify.app',
   title: 'NodeJS.',
 }
 
@@ -10,7 +10,7 @@ const about = {
   role: 'Desarrollador Back End',
   description:
     'En Nodejs JR. Con conocimientos en BD relacionales y BD no-relacionales. En constante aprendizaje.',
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/13bdQMdDaFKFFJdqzyQmNzKz1zRiRCNqA/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/maxiconstancio',
     github: 'https://github.com/maxiconstancio',
