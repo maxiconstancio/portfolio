@@ -44,6 +44,14 @@ const projects = [
     sourceCode: 'https://github.com/Apicarrito',
     // livePreview: 'https://github.com',
   },
+  {
+    name: 'BackEnd Mundo Disney',
+    description:
+      'API Backend para ingreso a Aceleracion Alkemy en Nodejs con Base de datos mySql',
+    stack: ['Node', 'javascript', 'Express', 'mySQL', 'Sequelize', 'JWT'],
+    sourceCode: 'https://github.com/mundodisney',
+    // livePreview: 'https://github.com',
+  },
 ]
 
 const skills = [
